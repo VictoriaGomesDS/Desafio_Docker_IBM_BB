@@ -63,8 +63,8 @@ IMAGEM FINAL
 * Nome do container deve ser _meuapache_;
 * Faça um redirecionamento de portas, da porta do host 20080 para a porta do contêiner 8080;
 * Execute o container em modo daemon.
-<img width="607" alt="image" src="https://user-images.githubusercontent.com/102270053/196784299-a25004cd-c968-4863-a4e2-363fa28689f8.png">
-<img width="662" alt="image" src="https://user-images.githubusercontent.com/102270053/196784450-32276a57-453c-45ec-b336-c3538e9bd69b.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/102270053/196784299-a25004cd-c968-4863-a4e2-363fa28689f8.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/102270053/196784450-32276a57-453c-45ec-b336-c3538e9bd69b.png">
 <img width="255" alt="image" src="https://user-images.githubusercontent.com/102270053/196784500-a75db000-d7e5-417e-93eb-11735f389f62.png"> <br/>
 <br/>
 
