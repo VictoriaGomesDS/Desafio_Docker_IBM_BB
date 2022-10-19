@@ -56,7 +56,6 @@ IMAGEM FINAL
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/102270053/196782578-d127de9d-73ba-4290-a26f-bce17579f6d5.png">
 <img width="525" alt="image" src="https://user-images.githubusercontent.com/102270053/196783152-2ab5b5cd-8dd1-4f8e-8ea6-08613f46950e.png"> <br/>
 <br/>
-<br/>
 
 ### 3 Com a imagem disponível localmente, crie um novo container com as características abaixo:
 
@@ -66,12 +65,10 @@ IMAGEM FINAL
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/102270053/196784299-a25004cd-c968-4863-a4e2-363fa28689f8.png">
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/102270053/196784450-32276a57-453c-45ec-b336-c3538e9bd69b.png"> <br/>
 <br/>
-<br/>
 
 ### 4 Verifique se o seu container esta sendo executado utilizando o comando docker e também através do seu navegador acessando o endereço https://localhost:20080.
 
 <img width="255" alt="image" src="https://user-images.githubusercontent.com/102270053/196784500-a75db000-d7e5-417e-93eb-11735f389f62.png"> <br/>
-<br/>
 <br/>
 
 ### 5 Apos verificar se o container esta sendo executado corretamente e você conseguiu verificar a mensagem utilizando o seu navegador, para ele e então suba a sua imagem criada para o docker hub.
