@@ -54,7 +54,7 @@ IMAGEM FINAL
 ### 2 Com o seu Dockerfile pronto, execute o comando docker build e o nome da imagem deve ser _seunome/custom-apache_ e verifiquei se esta imagem esta disponivel localmente.
 <br/>
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/102270053/196782578-d127de9d-73ba-4290-a26f-bce17579f6d5.png">
-<img width="354" alt="image" src="https://user-images.githubusercontent.com/102270053/196782677-003f77ef-5159-460a-8221-d692f5435163.png"> <br/>
+<img width="525" alt="image" src="https://user-images.githubusercontent.com/102270053/196783152-2ab5b5cd-8dd1-4f8e-8ea6-08613f46950e.png"> <br/>
 <br/>
 
 
