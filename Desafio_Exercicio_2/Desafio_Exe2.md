@@ -31,9 +31,15 @@ _index.html_
 ```
 
 * A pasta src deve conter apenas o arquivo index.html criado no passo anterior que imprime uma mensagem "Este é meu apache!";
+<br/>
+<img width="422" alt="image" src="https://user-images.githubusercontent.com/102270053/196781062-cf3accea-a094-48f2-845c-d877865030ef.png"> <br/>
+<br/>
 
 * Inicie o daemon Apache httpd em primeiro plano usando a instrução CMD e o seguinte comando:
 
 ```
 httpd -D FOREGROUND
 ```
+<br/>
+<img width="444" alt="image" src="https://user-images.githubusercontent.com/102270053/196781415-3e1df7a7-4a00-4d71-9295-0a378223f00b.png"> <br/>
+<br/>
