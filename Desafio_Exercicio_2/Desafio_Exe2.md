@@ -13,7 +13,7 @@ sed -ri -e "/^Listen 80/c\Listen ${PORT}" /etc/httpd/conf/httpd.conf && \
     chown -R apache:apache /run/httpd/
 ```
 <br/>
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/102270053/196776791-cd9c3153-c967-4afb-8308-8fffbf466e3e.png"> <br/>
+<img width="441" alt="image" src="https://user-images.githubusercontent.com/102270053/196781858-e9f19d47-d5b4-48f9-8962-f8cab99c24df.png"> <br/>
 <br/>
 
 
@@ -42,4 +42,9 @@ httpd -D FOREGROUND
 ```
 <br/>
 <img width="444" alt="image" src="https://user-images.githubusercontent.com/102270053/196781415-3e1df7a7-4a00-4d71-9295-0a378223f00b.png"> <br/>
+<br/>
+
+IMAGEM FINAL
+<br/>
+<img width="444" alt="image" src="https://user-images.githubusercontent.com/102270053/196781999-5c6fc8c6-feef-4845-a9c6-54786d6b834d.png"> <br/>
 <br/>
