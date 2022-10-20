@@ -71,6 +71,7 @@ IMAGEM FINAL
 <br/>
 
 ### 5 Apos verificar se o container esta sendo executado corretamente e você conseguiu verificar a mensagem utilizando o seu navegador, para ele e então suba a sua imagem criada para o docker hub.
-<br/>
-<img width="484" alt="image" src="https://user-images.githubusercontent.com/102270053/196962182-c0d90d26-6b7e-4534-b634-077c11427ed9.png"> <br/>
+
+<img width="484" alt="image" src="https://user-images.githubusercontent.com/102270053/196962182-c0d90d26-6b7e-4534-b634-077c11427ed9.png"> 
+<img width="549" alt="image" src="https://user-images.githubusercontent.com/102270053/196963699-34308613-421a-416c-b547-72b450045ee7.png"> <br/>
 <br/>
