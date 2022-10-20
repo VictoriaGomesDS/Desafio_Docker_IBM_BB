@@ -53,8 +53,7 @@ IMAGEM FINAL
 
 ### 2 Com o seu Dockerfile pronto, execute o comando docker build e o nome da imagem deve ser _seunome/custom-apache_ e verifiquei se esta imagem esta disponivel localmente.
 <br/>
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/102270053/196782578-d127de9d-73ba-4290-a26f-bce17579f6d5.png">
-<img width="525" alt="image" src="https://user-images.githubusercontent.com/102270053/196783152-2ab5b5cd-8dd1-4f8e-8ea6-08613f46950e.png"> <br/>
+<img width="788" alt="image" src="https://user-images.githubusercontent.com/102270053/196960057-026e083c-620d-4c84-9503-005b9e55884c.png"> <br/>
 <br/>
 
 ### 3 Com a imagem disponível localmente, crie um novo container com as características abaixo:
