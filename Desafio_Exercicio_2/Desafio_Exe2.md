@@ -61,6 +61,7 @@ IMAGEM FINAL
 * Nome do container deve ser _meuapache_;
 * Faça um redirecionamento de portas, da porta do host 20080 para a porta do contêiner 8080;
 * Execute o container em modo daemon.
+<br/>
 <img width="636" alt="image" src="https://user-images.githubusercontent.com/102270053/196960914-561c3313-2f8f-404a-b823-2523dfab0749.png"> <br/>
 <br/>
 
@@ -70,3 +71,6 @@ IMAGEM FINAL
 <br/>
 
 ### 5 Apos verificar se o container esta sendo executado corretamente e você conseguiu verificar a mensagem utilizando o seu navegador, para ele e então suba a sua imagem criada para o docker hub.
+<br/>
+<img width="484" alt="image" src="https://user-images.githubusercontent.com/102270053/196962182-c0d90d26-6b7e-4534-b634-077c11427ed9.png"> <br/>
+<br/>
