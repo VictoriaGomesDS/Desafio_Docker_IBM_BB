@@ -61,8 +61,7 @@ IMAGEM FINAL
 * Nome do container deve ser _meuapache_;
 * Faça um redirecionamento de portas, da porta do host 20080 para a porta do contêiner 8080;
 * Execute o container em modo daemon.
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/102270053/196784299-a25004cd-c968-4863-a4e2-363fa28689f8.png">
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/102270053/196784450-32276a57-453c-45ec-b336-c3538e9bd69b.png"> <br/>
+<img width="636" alt="image" src="https://user-images.githubusercontent.com/102270053/196960914-561c3313-2f8f-404a-b823-2523dfab0749.png"> <br/>
 <br/>
 
 ### 4 Verifique se o seu container esta sendo executado utilizando o comando docker e também através do seu navegador acessando o endereço https://localhost:20080.
